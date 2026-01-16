@@ -3,9 +3,9 @@ import {
   Heart, Users, Building2, Award, TrendingUp, CheckCircle2, 
   ArrowRight, PhoneCall, Mail, MapPin, Star
 } from 'lucide-react';
-import logoIPS from 'figma:asset/90f4af159a8911e848aed34370866cc925276c92.png';
-import logoFarmar from 'figma:asset/90f4af159a8911e848aed34370866cc925276c92.png';
-import logoBienestar from 'figma:asset/47c0b9ac6c0eca7a338570f8d4923729eb0adb0c.png';
+import logoIPS from '/asset/90f4af159a8911e848aed34370866cc925276c92.png';
+import logoFarmar from '/asset/90f4af159a8911e848aed34370866cc925276c92.png';
+import logoBienestar from '/asset/47c0b9ac6c0eca7a338570f8d4923729eb0adb0c.png';
 
 export function Home() {
   return (
