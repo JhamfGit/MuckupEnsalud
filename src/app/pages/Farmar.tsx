@@ -4,7 +4,7 @@ import {
   CheckCircle2, ArrowRight, Phone, Mail, MapPin, Package,
   Sparkles, BarChart, FileText, AlertCircle
 } from 'lucide-react';
-import logoFarmar from 'figma:asset/90f4af159a8911e848aed34370866cc925276c92.png';
+import logoFarmar from '/asset/90f4af159a8911e848aed34370866cc925276c92.png';
 
 export function Farmar() {
   const services = [

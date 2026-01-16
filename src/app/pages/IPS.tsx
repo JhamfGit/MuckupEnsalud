@@ -4,7 +4,7 @@ import {
   CheckCircle2, ArrowRight, Calendar, Clock, MapPin, Phone, Mail,
   Award, Shield, Users, TrendingUp
 } from 'lucide-react';
-import logoIPS from 'figma:asset/90f4af159a8911e848aed34370866cc925276c92.png';
+import logoIPS from '/asset/90f4af159a8911e848aed34370866cc925276c92.png';
 
 export function IPS() {
   const specialties = [

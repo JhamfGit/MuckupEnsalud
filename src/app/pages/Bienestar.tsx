@@ -4,7 +4,7 @@ import {
   CheckCircle2, ArrowRight, Phone, Mail, Building2, TrendingUp,
   Award, Shield, BarChart, Sparkles
 } from 'lucide-react';
-import logoBienestar from 'figma:asset/47c0b9ac6c0eca7a338570f8d4923729eb0adb0c.png';
+import logoBienestar from '/asset/47c0b9ac6c0eca7a338570f8d4923729eb0adb0c.png';
 
 export function Bienestar() {
   const programs = [
