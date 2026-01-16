@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import { Link, useLocation } from 'react-router-dom';
 import { Menu, X, ChevronDown } from 'lucide-react';
-import logoGroup from '/asset/fa9ac09e27bb775302e06e2d8ac988b742a9c6ab.png';
+import logoGroup from '/assets/fa9ac09e27bb775302e06e2d8ac988b742a9c6ab.png';
 
 export function Header() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
